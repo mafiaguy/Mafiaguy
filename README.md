@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mafiaguy/Mafiaguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Gday!
 
 I'm Sid, I do tech things in New Delhi, India.
