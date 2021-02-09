@@ -28,6 +28,8 @@ I like to spend my time hacking and writing mostly about web application securit
 [linkedin]: https://www.linkedin.com/in/mafiaguy
 [reddit]: https://www.reddit.com/user/thebiryanimonsterr
 
+![](https://komarev.com/ghpvc/?username=mafiaguy)
+
 
 
 
