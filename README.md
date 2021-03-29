@@ -2,7 +2,8 @@
 ### I'm Siddhanth Dwivedi - aka mafiaguy 👋 I do tech things in New Delhi, India.
 
 I like to spend my time hacking and writing mostly about web application security.
-- Currently working as a Cybersecurity Mentor at [Stanford's Advance Computer Security Program](https://www.greatlearning.in/online-cyber-security-course)
+- Currently working as a Security Engineer @ [Great Learning] (https://www.greatlearning.in/)
+- I worked as a Cybersecurity Mentor at [Stanford's Advance Computer Security Program](https://www.greatlearning.in/online-cyber-security-course)
 - I am involved with the team for the [IEEE PRE-UNIVERSITY PROJECT](https://tryengineering.org/)  
 - Technical Lead for the IEEE Student Voluntership Program
 - Active participant at [BSides Delhi](https://bsidesdelhi.in/)  
