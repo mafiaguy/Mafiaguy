@@ -10,7 +10,7 @@ I like to spend my time hacking and writing mostly about web application securit
 - Checkout some of my posts:point_down:  
   - [SQL Injection](https://securityguide.netlify.app/docs/sqlbasics) 
   - [Google Dorking Room](https://exploitguide.tech/Google-Dorking/) 
-  - [Curated List To Lean Security](https://securityguide.netlify.app/docs/read) 
+  - [Curated List To Learn Security](https://securityguide.netlify.app/docs/read) 
 
   
 ### Connect with me:  
